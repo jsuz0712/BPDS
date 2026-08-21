@@ -1,18 +1,13 @@
 # BPDS
+## Branch Prod
 
 Repositorio de la practica en clase de Git
 Profesora Kelly
 
-## Estructura
 
-```
-BPDS/
-│
-└── CRUD/
-    ├── index.html
-    ├── styles.css
-    └── app.js
-```
+## Autor
+
+jsuz0712
 
 ## Descripcion
 
@@ -22,6 +17,16 @@ En la carpeta CRUD estan los archivos base del proyecto:
 - styles.css: los estilos de la pagina
 - app.js: el codigo de JavaScript
 
-## Autor
+## Estructura
 
-jsuz0712
+```
+BPDS
+│
+└── CRUD/
+    ├── index.html
+    ├── styles.css
+    └── app.js
+```
+
+
+
