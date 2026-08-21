@@ -6,7 +6,7 @@ Repositorio de la practica en clase de Git.
 
 ## Autor
 
-jsuz0712
+jsuz0712--Jesus Monsalve
 
 ## Descripcion
 
