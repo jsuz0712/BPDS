@@ -8,6 +8,7 @@ Profesora Kelly👩‍🏫
 ## Autor
 
 jsuz0712- Jesus Monsalve
+Jesus Consuegra
 
 ## Descripcion
 
