@@ -1,12 +1,14 @@
 # BPDS
 ## Branch Prod
 
-Repositorio de la practica en clase de Git.
+Repositorio de la practica en clase de Git
+Profesora Kelly👩‍🏫
 
 
 ## Autor
 
-jsuz0712--Jesus Monsalve
+jsuz0712- Jesus Monsalve
+Jesus Consuegra
 
 ## Descripcion
 
