@@ -1,6 +1,7 @@
 # BPDS
 
-Repositorio de la practica en clase de Git.
+Repositorio de la practica en clase de Git
+Profesora Kelly
 
 ## Estructura
 
