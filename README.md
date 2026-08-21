@@ -2,12 +2,12 @@
 ## Branch Prod
 
 Repositorio de la practica en clase de Git
-Profesora Kelly
+Profesora Kelly👩‍🏫
 
 
 ## Autor
 
-jsuz0712
+jsuz0712- Jesus Monsalve
 
 ## Descripcion
 
